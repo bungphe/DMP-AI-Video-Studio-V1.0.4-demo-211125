@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DMP AI Video Studio V1.0.4 demo 211125",
+  "description": "A professional AI-powered video production studio featuring script writing, video generation with Veo, and project management.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
